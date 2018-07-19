@@ -5,4 +5,4 @@ The first code is Final_lambda_check.c. This code was used to test the speed and
 
 The second code is Final_point_source_check.c. In this code we considered a universe with a cosmological constant and point masses of about 3 kiloparsecs radius to represent opaque galaxy buldges.
 
-The second code is Final_homogeneous_halo_check.c. In this code we considered a universe with a cosmological constant and homogenous haloes of about 30 kiloparsecs radius to represent transparent dark matter haloes.
+The third code is Final_homogeneous_halo_check.c. In this code we considered a universe with a cosmological constant and homogenous haloes of about 30 kiloparsecs radius to represent transparent dark matter haloes.
